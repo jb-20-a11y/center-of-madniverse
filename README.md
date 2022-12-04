@@ -9,4 +9,5 @@ Commands are used in the form: `[command] [parameter]`. Commands include:
 * Consume the specified medicinal item in the inventory (take)
 * Throw the specified item in the inventory (throw)
 * quit
+
 One of the rooms is a teleporter that will teleport to a random room, and there is a math challenge room that requires solving all the challenges to escape it.
